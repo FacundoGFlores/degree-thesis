@@ -238,5 +238,3 @@ TSWLatexianTemp*
 # standalone packages
 *.sta
 
-# compiled pdf
-*.pdf
